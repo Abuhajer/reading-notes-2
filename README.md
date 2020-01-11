@@ -5,11 +5,11 @@ This is a repository for the **201 Reading Notes**
 
 _Reading Plan_
 
-1. Day 1 - [Introductory HTML and JavaScript] (https://canvas.instructure.com/courses/1791697/modules/items/27250077)
+1. Day 1 - [Introductory HTML and JavaScript] https://canvas.instructure.com/courses/1791697/modules/items/27250077
 
-2. Day 2 - [HTML Text, CSS Introduction, and Basic JavaScript Instructions] (https://canvas.instructure.com/courses/1791697/modules/items/27250084)
+2. Day 2 - [HTML Text, CSS Introduction, and Basic JavaScript Instructions] https://canvas.instructure.com/courses/1791697/modules/items/27250084
 
-3. Day 3 - [HTML Lists, CSS Boxes, JS Control Flow] (https://canvas.instructure.com/courses/1791697/modules/items/27250090)
+3. Day 3 - [HTML Lists, CSS Boxes, JS Control Flow] https://canvas.instructure.com/courses/1791697/modules/items/27250090
 
 4. Day 4 - [HTML Links, CSS Layout, JS Functions] (https://canvas.instructure.com/courses/1791697/modules/items/27250095)
 
