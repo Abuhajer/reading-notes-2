@@ -27,7 +27,7 @@ _Reading Plan_
     https://canvas.instructure.com/courses/1791697/modules/items/27250127
 11. Day 11
     https://canvas.instructure.com/courses/1791697/modules/items/27250139
-12. Day 12
+12. Day 12 - [Docs for the HTML Element & Chart.js]
     https://canvas.instructure.com/courses/1791697/modules/items/27250145
 13. Day 13
     https://canvas.instructure.com/courses/1791697/modules/items/27250149
