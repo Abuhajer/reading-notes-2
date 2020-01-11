@@ -5,6 +5,8 @@ This is a repository for the **201 Reading Notes**
 
 _Reading Plan_
 
+[google](https://google.com)
+
 1. Day 1 - [Introductory HTML and JavaScript] https://canvas.instructure.com/courses/1791697/modules/items/27250077
 
 2. Day 2 - [HTML Text, CSS Introduction, and Basic JavaScript Instructions] https://canvas.instructure.com/courses/1791697/modules/items/27250084
