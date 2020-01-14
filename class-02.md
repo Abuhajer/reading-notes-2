@@ -13,8 +13,16 @@ When using external CSS, you need to use the <link> element in the HTML page to 
 
 Some rules are considered more specific than other rules in CSS. Generally, an id is more specific than a class, and a class is more specific than an element rule. If 2 rules are the same, the latter will take place. Important can be added to any property value to make sure it is more specific than any other rule that applies to the same element. 
 
-JavaScript Chapter 2
-Notes...
-
-JavaScript Chapter 4
-Notes...
+JavaScript Chapter 2 (Basic Instructions)
+A script is a series of steps that computers follow one by one. Each step is called a statement. 
+Variables need to be declared. IE: var age; Variables can have an assigned value. IE: var age = 18; Values can change and will be stored in short term memory. Variables can be numeric, strings, or boolean (true or false), or undefined. Multiple variables can be declared and assigned in 1 line of code, but it makes it harder to read. There are rules for naming variables:
+-	Name can start with a letter, $, _, not with a number
+-	Name cannot contain a dash (–) or a period (.)
+-	Cannot use keywords or reserved words
+-	All variables are case sensitive
+-	Use a name that describes the information to be stored
+-	If a variable name contains 2 or more words, the name is usually written using camelCase
+Questions: difference between array literal and array construction.
+JavaScript Chapter 4 (Decisions and Loops)
+Scripts behave differently depending on how the user interacts with a website. To determine what path to take in a script, we use: evaluations, decisions, loops. 
+If vs switch. With a series of if statements, they are all checked, even if a match has been found. It performs slower. With switch, we have a default option in case none of the cases match. When a match is found that code is run, and the break statement stops the other switch statements running. This improves performance. 
