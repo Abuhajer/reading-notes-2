@@ -1,21 +1,12 @@
-Read
-Here are the chapters to read/skim before Class 1:
+Capter 1
+What you see in a website done using HTML and CSS. HTML describes the structure of a website with heading, paragraphs, images, etc. 
+HTML uses tags like <html>, <head>, <body>, <h1>, <p>. We use the <html></html> tags to tell the browser that we are passing html content. Between the <head></head> tags we put information about the page. Everything inside the <body></body> tags is what is displayed in the page. 
 
-From the Duckett HTML book:
+Chapter 8
+We use DOCTYPES to tell the browsers which version of HTML you are passing. We can also write comments using this: <!-- comment -->. We can use <div> and <span> to group elements together. 
+  
+Chapter 9
 
-Introduction (pp.2-11)
-HTML Chapter 1: “Structure” (pp.12-39)
-HTML Chapter 8: “Extra Markup” (p.176-199)
-HTML Chapter 17: “HTML5 Layout” (pp.428-451)
-HTML Chapter 18: “Process & Design” (pp.452-475)
-From the Duckett JS book:
-
-Introduction
-JS Chapter 1: “The ABC of Programming” (pp.11-52)
-If you have any questions or comments from the readings, post them in the class Slack channel!
-
-Discuss
-To turn in your reading “Reply” to this discussion by pasting the content of your rendered web page into the discussion board. Then review what your classmates learned.
 
 Markdown Entry Ideas
 Blog Article (2-3 paragraphs with code sample)
@@ -28,7 +19,3 @@ Tutorial / walk through an example as though you were teaching a 102 student
 Write a quiz
 Create a vocabulary/definition list
 Write a cheat sheet
-Create a diagram / visualization / cartoon of a topic
-Anthropomorphize the concepts, and write a conversation between them
-Build a map of the information
-Construct a fill-in-the-blank worksheet for the topic
