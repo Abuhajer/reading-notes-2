@@ -1,4 +1,4 @@
-###HTML Chapter 1 (Structure)
+#HTML Chapter 1 (Structure)
 HTML pages are text documents. We use the tags to tell the browser that we are passing html content. Between the <head> tags we put information about the page. Everything inside the <body> tags is what is displayed in the page. Most elements have an opening and closing tags. Opening tags can carry attributes to provide additional information about the content in that element. These attributes need to have a name and a value assigned to them. 
 
 ###HTML Chapter 8 (Extra Markup)
