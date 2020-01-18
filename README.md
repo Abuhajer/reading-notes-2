@@ -25,7 +25,7 @@ Below is a list of all reading assigments in Canvas for the 201n17 class. I will
 - Github page: [Class-03.md](https://github.com/ticochuck/reading-notes/blob/master/class-03.md) 
 
 
-Coming up:
+## _Coming up:_
 
 4. Day 4 - [HTML Links, CSS Layout, JS Functions](https://canvas.instructure.com/courses/1791697/modules/items/27250095)
 
