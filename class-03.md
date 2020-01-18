@@ -9,7 +9,8 @@ There 3 types of HTML lists:
 
 ## HTML Chapter 13 *(Boxes)*
 
-![CSS Box Model](/reading-notes/img/boxmodel.gif "The Box Model")
+
+![CSS Box Model](/img/boxmodel.gif "The Box Model")
 
 ## JavaScript Chapter 4 *(Decisions and Loops)*
 
