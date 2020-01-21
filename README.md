@@ -8,26 +8,30 @@ Below is a list of all reading assigments in Canvas for the 201n17 class. I will
 
 ## 1. Day 1 
 
-- Canvas assigment: [Read: 01 - Introductory HTML and JavaScript](https://canvas.instructure.com/courses/1791697/modules/items/27250077)
+- Canvas assignment: [Read: 01 - Introductory HTML and JavaScript](https://canvas.instructure.com/courses/1791697/modules/items/27250077)
 
 - Github page: [Class-01.md](https://github.com/ticochuck/reading-notes/blob/master/class-01.md)
 
 
 ## 2. Day 2 - 
-- Canvas assigment: [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://canvas.instructure.com/courses/1791697/modules/items/27250084)
+- Canvas assignment: [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://canvas.instructure.com/courses/1791697/modules/items/27250084)
 
 - Github page: [Class-02.md](https://github.com/ticochuck/reading-notes/blob/master/class-02.md)
 
 
 ## 3. Day 3 - 
-- Canvas assigment: [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](https://canvas.instructure.com/courses/1791697/modules/items/27250090) 
+- Canvas assignment: [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](https://canvas.instructure.com/courses/1791697/modules/items/27250090) 
 
 - Github page: [Class-03.md](https://github.com/ticochuck/reading-notes/blob/master/class-03.md) 
 
 
-## _Coming up:_
+## 4. Day 4 - 
+- Canvas assignment: [HTML Links, CSS Layout, JS Functions](https://canvas.instructure.com/courses/1791697/modules/items/27250095)
 
-4. Day 4 - [HTML Links, CSS Layout, JS Functions](https://canvas.instructure.com/courses/1791697/modules/items/27250095)
+- Github page: [Class-04.md](https://github.com/ticochuck/reading-notes/blob/master/class-04)
+
+
+## _Coming soon:_
 
 5. Day 5 - [HTML Images; CSS Color & Te](https://canvas.instructure.com/courses/1791697/modules/items/27250099)
 

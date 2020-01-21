@@ -15,3 +15,4 @@ There 3 types of HTML lists:
 ## JavaScript Chapter 4 *(Decisions and Loops)*
 
 If vs switch. With a series of if statements, they are all checked, even if a match has been found. It performs slower. With switch, we have a default option in case none of the cases match. When a match is found that code is run, and the break statement stops the other switch statements running. This improves performance.
+
