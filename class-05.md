@@ -25,3 +25,18 @@ Opacity allows us to specify the opacity of an element. RGBA allows us to specif
 
 ## HTML Chapter 12 *(Text)*
 
+![Typeface Terminology](/img/typeface.png "Type Face")
+
+When choosing a typeface, it is important to understand that the browser will usually only display it if it's installed on the user's computer. It is a good idea to add a generic font after your preferred choice. I.E. font-family: Georgia, Times, serif;
+
+### font-size
+This property enables us to specify the size for the font. You can use:
+  - Pixels: the default size in browswers is 16px. 
+  - Percentages: a size of 200% would be 32px.
+  - ems: this is equivalent to the with of the letter m.
+
+  ### Units of type size
+
+  ![Units of Type Size](./img/typesize.png "Type Size")
+
+  
