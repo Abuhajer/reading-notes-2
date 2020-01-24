@@ -30,10 +30,14 @@ Below is a list of all reading assigments in Canvas for the 201n17 class. I will
 
 - Github page: [Class-04.md](https://github.com/ticochuck/reading-notes/blob/master/class-04)
 
+## 5. Day 5 - 
+- Cavas assignment: [HTML Images; CSS Color & Te](https://canvas.instructure.com/courses/1791697/modules/items/27250099)
+
+- Github page: [Class-05.md](https://github.com/ticochuck/reading-notes/blob/master/class-05)
+
 
 ## _Coming soon:_
 
-5. Day 5 - [HTML Images; CSS Color & Te](https://canvas.instructure.com/courses/1791697/modules/items/27250099)
 
 6. Day 6 - [JS Object Literals; The DOM](https://canvas.instructure.com/courses/1791697/modules/items/27250109)
 
