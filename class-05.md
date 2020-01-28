@@ -37,6 +37,6 @@ This property enables us to specify the size for the font. You can use:
 
   ### Units of type size
 
-  ![Units of Type Size](./img/typesize.png "Type Size")
+  ![Units of Type Size](/img/typesize.PNG "Type Size")
 
   
