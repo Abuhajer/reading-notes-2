@@ -36,12 +36,18 @@ Below is a list of all reading assigments in Canvas for the 201n17 class. I will
 - Github page: [Class-05.md](https://github.com/ticochuck/reading-notes/blob/master/class-05.md)
 
 
+## 6. Day 6 -
+- Canvas assignment: [JS Object Literals; The DOM](https://canvas.instructure.com/courses/1791697/modules/items/27250109)
+
+- Github page: [Class-06.md](https://github.com/ticochuck/reading-notes/blob/master/class-06.md)
+
+## 7. Day 7 - 
+- Canvas assignment: [HTML Tables; JS Constructor Functions](https://canvas.instructure.com/courses/1791697/modules/items/27250113)
+
+- Github page: [Class-07.md]( )
+
+
 ## _Coming soon:_
-
-
-6. Day 6 - [JS Object Literals; The DOM](https://canvas.instructure.com/courses/1791697/modules/items/27250109)
-
-7. Day 7 - [HTML Tables; JS Constructor Functions](https://canvas.instructure.com/courses/1791697/modules/items/27250113)
 
 8. Day 8 - [More CSS Layout](https://canvas.instructure.com/courses/1791697/modules/items/27250117)
 
