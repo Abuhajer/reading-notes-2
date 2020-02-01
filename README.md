@@ -44,7 +44,7 @@ Below is a list of all reading assigments in Canvas for the 201n17 class. I will
 ## 7. Day 7 - 
 - Canvas assignment: [HTML Tables; JS Constructor Functions](https://canvas.instructure.com/courses/1791697/modules/items/27250113)
 
-- Github page: [Class-07.md]( )
+- Github page: [Class-07.md](https://github.com/ticochuck/reading-notes/blob/master/class-07.md)
 
 
 ## _Coming soon:_
