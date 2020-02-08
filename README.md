@@ -49,11 +49,15 @@ Below is a list of all reading assigments in Canvas for the 201n17 class. I will
 ## 8. Day 8 - 
 - Canvas assignment: [More CSS Layout](https://canvas.instructure.com/courses/1791697/modules/items/27250117)
 
-- Github page: [Class-08.md]()
+- Github page: [Class-08.md](https://github.com/ticochuck/reading-notes/blob/master/class-08.md)
+
+## 9. Day 9 - 
+- Canvas assignment: [Forms and Events](https://canvas.instructure.com/courses/1791697/modules/items/27250123)
+
+- Github page: [Class-09.md](https://github.com/ticochuck/reading-notes/blob/master/class-09.md)
+
 
 ## _Coming soon:_
-
-9. Day 9 - [Forms and Events](https://canvas.instructure.com/courses/1791697/modules/items/27250123)
 
 10. Day 10 - [JS Debugging](https://canvas.instructure.com/courses/1791697/modules/items/27250127)
 
