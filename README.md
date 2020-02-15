@@ -63,10 +63,13 @@ Below is a list of all reading assigments in Canvas for the 201n17 class. I will
 - Github page: [Class-10.md](https://github.com/ticochuck/reading-notes/blob/master/class-10.md)
 
 
+## 11. Day 11 - 
+- Canvas assignment: [Assorted Topics](https://canvas.instructure.com/courses/1791697/modules/items/27250139)
+
+- Gihub page: [Class-11.md](https://github.com/ticochuck/reading-notes/blob/master/class-11.md)
+
 ## _Coming soon:_
 
-
-11. Day 11 - [Assorted Topics](https://canvas.instructure.com/courses/1791697/modules/items/27250139)
 
 12. Day 12 - [Docs for the HTML Element & Chart.js](https://canvas.instructure.com/courses/1791697/modules/items/27250145)
 
