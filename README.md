@@ -68,10 +68,15 @@ Below is a list of all reading assigments in Canvas for the 201n17 class. I will
 
 - Gihub page: [Class-11.md](https://github.com/ticochuck/reading-notes/blob/master/class-11.md)
 
+
+## 12. Day 12 - 
+-Canvas assignment: [Docs for the HTML Element & Chart.js](https://canvas.instructure.com/courses/1791697/modules/items/27250145)
+
+- Github: [Class-12.md](https://github.com/ticochuck/reading-notes/blob/master/class-12.md)
+
+
 ## _Coming soon:_
 
-
-12. Day 12 - [Docs for the HTML Element & Chart.js](https://canvas.instructure.com/courses/1791697/modules/items/27250145)
 
 13. Day 13 - [Local Storage](https://canvas.instructure.com/courses/1791697/modules/items/27250149)
 
