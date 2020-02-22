@@ -72,16 +72,22 @@ Below is a list of all reading assigments in Canvas for the 201n17 class. I will
 ## 12. Day 12 - 
 -Canvas assignment: [Docs for the HTML Element & Chart.js](https://canvas.instructure.com/courses/1791697/modules/items/27250145)
 
-- Github: [Class-12.md](https://github.com/ticochuck/reading-notes/blob/master/class-12.md)
+- Github page: [Class-12.md](https://github.com/ticochuck/reading-notes/blob/master/class-12.md)
 
+
+## 13. Day 13 - 
+- Canvas assignment: [Local Storage](https://canvas.instructure.com/courses/1791697/modules/items/27250149)
+
+- Github page: [Class-13.md](https://github.com/ticochuck/reading-notes/blob/master/class-13.md)
 
 ## 15. Day 15 -
 - Canvas assignment: [What Google Learned About Teams](https://canvas.instructure.com/courses/1791697/modules/items/27250154)
 
+- Github page: [Class-15.md](https://github.com/ticochuck/reading-notes/blob/master/class-15.md)
+
+
 ## _Coming soon:_
 
-
-13. Day 13 - [Local Storage](https://canvas.instructure.com/courses/1791697/modules/items/27250149)
 
 14. Day 14 
 
