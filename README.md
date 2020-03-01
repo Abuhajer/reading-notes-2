@@ -80,16 +80,13 @@ Below is a list of all reading assigments in Canvas for the 201n17 class. I will
 
 - Github page: [Class-13.md](https://github.com/ticochuck/reading-notes/blob/master/class-13.md)
 
+## 14. Day 14 - 
+- Canvas assigment: [CSS Transforms, Transitions, and Animations](https://canvas.instructure.com/courses/1791697/modules/items/27250153)
+
+- Github page: [Class-15.md](https://github.com/ticochuck/reading-notes/blob/master/class-14.md)
+
 ## 15. Day 15 -
 - Canvas assignment: [What Google Learned About Teams](https://canvas.instructure.com/courses/1791697/modules/items/27250154)
 
 - Github page: [Class-15.md](https://github.com/ticochuck/reading-notes/blob/master/class-15.md)
 
-
-## _Coming soon:_
-
-
-14. Day 14 
-
-    - Read a - [CSS Transforms, Transitions, and Animations](https://canvas.instructure.com/courses/1791697/modules/items/27250153)
-  
