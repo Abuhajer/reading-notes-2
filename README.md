@@ -6,8 +6,7 @@ _This section is a repository for the **201 Reading Notes**_
 ## Read 01
 - Canvas assignment: [Read: 01 - SMACSS and Responsive Web Design](https://canvas.instructure.com/courses/1848674/discussion_topics/8494893)
 
-
-
+- Github Page: [301-calss01.md](https://github.com/ticochuck/reading-notes/blob/master/301-class01.md)
 
 # Code 201 Reading Notes
 
