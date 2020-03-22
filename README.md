@@ -1,7 +1,18 @@
+# Code 301 Reading Notes
+
+## Description
+_This section is a repository for the **201 Reading Notes**_
+
+## Read 01
+- Canvas assignment: [Read: 01 - SMACSS and Responsive Web Design](https://canvas.instructure.com/courses/1848674/discussion_topics/8494893)
+
+
+
+
 # Code 201 Reading Notes
 
 ## Description 
-_This is a repository for the **201 Reading Notes**_
+_This section is a repository for the **201 Reading Notes**_
 
 Below is a list of all reading assigments in Canvas for the 201n17 class. I will be adding a new file with my own notes for each assigment. 
 
