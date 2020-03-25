@@ -1,12 +1,26 @@
 # Code 301 Reading Notes
 
 ## Description
-_This section is a repository for the **201 Reading Notes**_
+_This section is a repository for the **301 Reading Notes**_
+
+Below is a list of all reading assigments in Canvas for the 301n17 class. I will be adding a new file with my own notes for each assigment. 
+
 
 ## Read 01
-- Canvas assignment: [Read: 01 - SMACSS and Responsive Web Design](https://canvas.instructure.com/courses/1848674/discussion_topics/8494893)
+- Canvas assignment: [Read 01 - SMACSS and Responsive Web Design](https://canvas.instructure.com/courses/1848674/discussion_topics/8494893)
 
 - Github Page: [301-calss01.md](https://github.com/ticochuck/reading-notes/blob/master/301-class01.md)
+
+
+## Read 02
+- Canvas assignment: [Read 02 - JavaScript and jQuery book by Jon Duckett pages 293-301, 306-331 and 354-357](https://canvas.instructure.com/courses/1848674/discussion_topics/8494892)
+
+- Github Page: [301-calss02.md](https://github.com/ticochuck/reading-notes/blob/master/301-class02.md)
+
+
+
+
+
 
 # Code 201 Reading Notes
 
