@@ -17,7 +17,10 @@ Below is a list of all reading assigments in Canvas for the 301n17 class. I will
 
 - Github Page: [301-calss02.md](https://github.com/ticochuck/reading-notes/blob/master/301-class02.md)
 
+## Read 03
+- Canvas assignment: [Read: 03 - Flexbox and Templating](https://canvas.instructure.com/courses/1848674/discussion_topics/8494894)
 
+- Github Page: [301-calss03.md](https://github.com/ticochuck/reading-notes/blob/master/301-class03.md)
 
 
 
