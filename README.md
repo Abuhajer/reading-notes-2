@@ -23,12 +23,14 @@ Below is a list of all reading assigments in Canvas for the 301n17 class. I will
 - Github Page: [301-calss03.md](https://github.com/ticochuck/reading-notes/blob/master/301-class03.md)
 
 ## Read 04
-- Canvas assignment: [Read: 03 - Flexbox and Templating](https://canvas.instructure.com/courses/1848674/discussion_topics/8494891)
+- Canvas assignment: [Read: 04 - Flexbox and Templating](https://canvas.instructure.com/courses/1848674/discussion_topics/8494891)
 
 - Github Page: [301-calss04.md](https://github.com/ticochuck/reading-notes/blob/master/301-class04.md)
 
+## Read 05
+- Canvas assignment: [Read: 05 - Heroku Deployment](https://canvas.instructure.com/courses/1848674/discussion_topics/8494881)
 
-
+- Github Page: [301-calss05.md](https://github.com/ticochuck/reading-notes/blob/master/301-class05.md)
 
 # Code 201 Reading Notes
 
