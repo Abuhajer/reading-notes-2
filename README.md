@@ -32,6 +32,11 @@ Below is a list of all reading assigments in Canvas for the 301n17 class. I will
 
 - Github Page: [301-calss05.md](https://github.com/ticochuck/reading-notes/blob/master/301-class05.md)
 
+## Read 06
+- Canvas assignment: [Read: 06 - Node, Express, and APIs](https://canvas.instructure.com/courses/1848674/discussion_topics/8494890)
+
+- Github Page: [301-calss06.md](https://github.com/ticochuck/reading-notes/blob/master/301-class06.md)
+
 # Code 201 Reading Notes
 
 ## Description 
