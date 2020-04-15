@@ -42,6 +42,11 @@ Below is a list of all reading assigments in Canvas for the 301n17 class. I will
 
 - Github Page: [301-calss07.md](https://github.com/ticochuck/reading-notes/blob/master/301-class07.md)
 
+## Read 08
+- Canvas assignment: [Read: 08 - SQL](https://canvas.instructure.com/courses/1848674/discussion_topics/8494888)
+
+- Github Page: [301-calss08.md](https://github.com/ticochuck/reading-notes/blob/master/301-class08.md)
+
 # Code 201 Reading Notes
 
 ## Description 
