@@ -37,6 +37,11 @@ Below is a list of all reading assigments in Canvas for the 301n17 class. I will
 
 - Github Page: [301-calss06.md](https://github.com/ticochuck/reading-notes/blob/master/301-class06.md)
 
+## Read 07
+- Canvas assignment: [Read: 07 - APIs continued](https://canvas.instructure.com/courses/1848674/discussion_topics/8494895)
+
+- Github Page: [301-calss07.md](https://github.com/ticochuck/reading-notes/blob/master/301-class07.md)
+
 # Code 201 Reading Notes
 
 ## Description 
