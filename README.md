@@ -52,6 +52,7 @@ Below is a list of all reading assigments in Canvas for the 301n17 class. I will
 
 - Github Page: [301-calss09.md](https://github.com/ticochuck/reading-notes/blob/master/301-class09.md)
 
+
 # Code 201 Reading Notes
 
 ## Description 
