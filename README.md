@@ -57,6 +57,11 @@ Below is a list of all reading assigments in Canvas for the 301n17 class. I will
 
 - Github Page: [301-calss10.md](https://github.com/ticochuck/reading-notes/blob/master/301-class10.md)
 
+## Read 11
+- Canvas assignment: [Read: 11 - EJS](https://canvas.instructure.com/courses/1848674/discussion_topics/8494885)
+
+- Github Page: [301-calss11.md](https://github.com/ticochuck/reading-notes/blob/master/301-class11.md)
+
 # Code 201 Reading Notes
 
 ## Description 
