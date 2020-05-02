@@ -67,6 +67,11 @@ Below is a list of all reading assigments in Canvas for the 301n17 class. I will
 
 - Github Page: [301-calss12.md](https://github.com/ticochuck/reading-notes/blob/master/301-class12.md)
 
+## Read 13
+- Canvas assignment: [Read: 13 - Update/Delete(https://canvas.instructure.com/courses/1848674/discussion_topics/8494882)
+
+- Github Page: [301-calss13.md](https://github.com/ticochuck/reading-notes/blob/master/301-class13.md)
+
 # Code 201 Reading Notes
 
 ## Description 
