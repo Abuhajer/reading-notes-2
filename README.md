@@ -1,3 +1,6 @@
+# Placeholder for 401 notes
+placeholder
+
 # Code 301 Reading Notes
 
 ## Description
