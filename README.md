@@ -1,5 +1,16 @@
-# Placeholder for 401 notes
-placeholder
+# 401 Reading Notes
+## Description
+_This section is a repository for the **401 Reading Notes**_
+
+## Read 01
+- Canvas assignment: [Read 01 - Pain vs Suffering / Big O](https://canvas.instructure.com/courses/2045906/discussion_topics/8960285)
+
+- Github Page: [301-calss01.md](https://github.com/ticochuck/reading-notes/blob/master/401-class01.md)
+
+## Read 02
+- Canvas assignment: [Read 02 - Testing and Modules](https://canvas.instructure.com/courses/2045906/discussion_topics/8960283)
+
+- Github Page: [401-calss02.md](https://github.com/ticochuck/reading-notes/blob/master/401-class02.md)
 
 # Code 301 Reading Notes
 
