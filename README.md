@@ -5,12 +5,17 @@ _This section is a repository for the **401 Reading Notes**_
 ## Read 01
 - Canvas assignment: [Read 01 - Pain vs Suffering / Big O](https://canvas.instructure.com/courses/2045906/discussion_topics/8960285)
 
-- Github Page: [301-calss01.md](https://github.com/ticochuck/reading-notes/blob/master/401-class01.md)
+- Github Page: [401-class01.md](https://github.com/ticochuck/reading-notes/blob/master/401-class01.md)
 
 ## Read 02
 - Canvas assignment: [Read 02 - Testing and Modules](https://canvas.instructure.com/courses/2045906/discussion_topics/8960283)
 
-- Github Page: [401-calss02.md](https://github.com/ticochuck/reading-notes/blob/master/401-class02.md)
+- Github Page: [401-class02.md](https://github.com/ticochuck/reading-notes/blob/master/401-class02.md)
+
+## Read 03
+- Canvas assignment: [Read 03 - FileIO & Exceptions](https://canvas.instructure.com/courses/2045906/discussion_topics/8960282)
+
+- Github Page: [401-class03.md](https://github.com/ticochuck/reading-notes/blob/master/401-class03.md)
 
 # Code 301 Reading Notes
 
@@ -23,68 +28,68 @@ Below is a list of all reading assigments in Canvas for the 301n17 class. I will
 ## Read 01
 - Canvas assignment: [Read 01 - SMACSS and Responsive Web Design](https://canvas.instructure.com/courses/1848674/discussion_topics/8494893)
 
-- Github Page: [301-calss01.md](https://github.com/ticochuck/reading-notes/blob/master/301-class01.md)
+- Github Page: [301-class01.md](https://github.com/ticochuck/reading-notes/blob/master/301-class01.md)
 
 
 ## Read 02
 - Canvas assignment: [Read 02 - JavaScript and jQuery book by Jon Duckett pages 293-301, 306-331 and 354-357](https://canvas.instructure.com/courses/1848674/discussion_topics/8494892)
 
-- Github Page: [301-calss02.md](https://github.com/ticochuck/reading-notes/blob/master/301-class02.md)
+- Github Page: [301-class02.md](https://github.com/ticochuck/reading-notes/blob/master/301-class02.md)
 
 ## Read 03
 - Canvas assignment: [Read: 03 - Flexbox and Templating](https://canvas.instructure.com/courses/1848674/discussion_topics/8494894)
 
-- Github Page: [301-calss03.md](https://github.com/ticochuck/reading-notes/blob/master/301-class03.md)
+- Github Page: [301-class03.md](https://github.com/ticochuck/reading-notes/blob/master/301-class03.md)
 
 ## Read 04
 - Canvas assignment: [Read: 04 - Flexbox and Templating](https://canvas.instructure.com/courses/1848674/discussion_topics/8494891)
 
-- Github Page: [301-calss04.md](https://github.com/ticochuck/reading-notes/blob/master/301-class04.md)
+- Github Page: [301-class04.md](https://github.com/ticochuck/reading-notes/blob/master/301-class04.md)
 
 ## Read 05
 - Canvas assignment: [Read: 05 - Heroku Deployment](https://canvas.instructure.com/courses/1848674/discussion_topics/8494881)
 
-- Github Page: [301-calss05.md](https://github.com/ticochuck/reading-notes/blob/master/301-class05.md)
+- Github Page: [301-class05.md](https://github.com/ticochuck/reading-notes/blob/master/301-class05.md)
 
 ## Read 06
 - Canvas assignment: [Read: 06 - Node, Express, and APIs](https://canvas.instructure.com/courses/1848674/discussion_topics/8494890)
 
-- Github Page: [301-calss06.md](https://github.com/ticochuck/reading-notes/blob/master/301-class06.md)
+- Github Page: [301-class06.md](https://github.com/ticochuck/reading-notes/blob/master/301-class06.md)
 
 ## Read 07
 - Canvas assignment: [Read: 07 - APIs continued](https://canvas.instructure.com/courses/1848674/discussion_topics/8494895)
 
-- Github Page: [301-calss07.md](https://github.com/ticochuck/reading-notes/blob/master/301-class07.md)
+- Github Page: [301-class07.md](https://github.com/ticochuck/reading-notes/blob/master/301-class07.md)
 
 ## Read 08
 - Canvas assignment: [Read: 08 - SQL](https://canvas.instructure.com/courses/1848674/discussion_topics/8494888)
 
-- Github Page: [301-calss08.md](https://github.com/ticochuck/reading-notes/blob/master/301-class08.md)
+- Github Page: [301-class08.md](https://github.com/ticochuck/reading-notes/blob/master/301-class08.md)
 
 ## Read 09
 - Canvas assignment: [Read: 09 - Refactoring](https://canvas.instructure.com/courses/1848674/discussion_topics/8494887)
 
-- Github Page: [301-calss09.md](https://github.com/ticochuck/reading-notes/blob/master/301-class09.md)
+- Github Page: [301-class09.md](https://github.com/ticochuck/reading-notes/blob/master/301-class09.md)
 
 ## Read 10
 - Canvas assignment: [Read: 10 - The Call Stack and Debugging](https://canvas.instructure.com/courses/1848674/discussion_topics/8494889)
 
-- Github Page: [301-calss10.md](https://github.com/ticochuck/reading-notes/blob/master/301-class10.md)
+- Github Page: [301-class10.md](https://github.com/ticochuck/reading-notes/blob/master/301-class10.md)
 
 ## Read 11
 - Canvas assignment: [Read: 11 - EJS](https://canvas.instructure.com/courses/1848674/discussion_topics/8494885)
 
-- Github Page: [301-calss11.md](https://github.com/ticochuck/reading-notes/blob/master/301-class11.md)
+- Github Page: [301-class11.md](https://github.com/ticochuck/reading-notes/blob/master/301-class11.md)
 
 ## Read 12
 - Canvas assignment: [Read: 12 - Components(https://canvas.instructure.com/courses/1848674/discussion_topics/8494886)
 
-- Github Page: [301-calss12.md](https://github.com/ticochuck/reading-notes/blob/master/301-class12.md)
+- Github Page: [301-class12.md](https://github.com/ticochuck/reading-notes/blob/master/301-class12.md)
 
 ## Read 13
 - Canvas assignment: [Read: 13 - Update/Delete(https://canvas.instructure.com/courses/1848674/discussion_topics/8494882)
 
-- Github Page: [301-calss13.md](https://github.com/ticochuck/reading-notes/blob/master/301-class13.md)
+- Github Page: [301-class13.md](https://github.com/ticochuck/reading-notes/blob/master/301-class13.md)
 
 # Code 201 Reading Notes
 
