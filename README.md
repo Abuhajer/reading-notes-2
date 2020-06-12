@@ -20,7 +20,12 @@ _This section is a repository for the **401 Reading Notes**_
 ## Read 04
 - Canvas assignment: [Read 04 - Classes and Objects](https://canvas.instructure.com/courses/2045906/discussion_topics/8960290)
 
-- Github Page: [401-class03.md](https://github.com/ticochuck/reading-notes/blob/master/401-class03.md)
+- Github Page: [401-class04.md](https://github.com/ticochuck/reading-notes/blob/master/401-class04.md)
+
+## Read 04
+- Canvas assignment: [Read 05 - Implementation: Linked Lists](https://canvas.instructure.com/courses/2045906/discussion_topics/8960321)
+
+- Github Page: [401-class05.md](https://github.com/ticochuck/reading-notes/blob/master/401-class05.md)
 
 # Code 301 Reading Notes
 
