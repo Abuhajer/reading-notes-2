@@ -32,6 +32,11 @@ _This section is a repository for the **401 Reading Notes**_
 
 - Github Page: [401-class06.md](https://github.com/ticochuck/reading-notes/blob/master/401-class06.md)
 
+## Read 07
+- Canvas assignment: [Read 07 - Random Module, Risk Analysis](https://canvas.instructure.com/courses/2045906/discussion_topics/8960288)
+
+- Github Page: [401-class07.md](https://github.com/ticochuck/reading-notes/blob/master/401-class07.md)
+
 # Code 301 Reading Notes
 
 ## Description
