@@ -47,10 +47,16 @@ _This section is a repository for the **401 Reading Notes**_
 
 - Github Page: [401-class09.md](https://github.com/ticochuck/reading-notes/blob/master/401-class09.md)
 
-## Read 09
+## Read 10
 - Canvas assignment: [Read 10 - Stacks and Queues](https://canvas.instructure.com/courses/2045906/discussion_topics/8960320)
 
 - Github Page: [401-class10.md](https://github.com/ticochuck/reading-notes/blob/master/401-class10.md)
+
+## Read 11
+- Canvas assignment: [Read 11 - Data Analysis](https://canvas.instructure.com/courses/2045906/discussion_topics/8960289)
+
+- Github Page: [401-class11.md](https://github.com/ticochuck/reading-notes/blob/master/401-class11.md)
+
 
 # Code 301 Reading Notes
 
