@@ -77,6 +77,13 @@ _This section is a repository for the **401 Reading Notes**_
 
 - Github Page: [401-class16.md](https://github.com/ticochuck/reading-notes/blob/master/401-class16.md)
 
+## Read 17
+- Canvas assignment: [Read 17 - Web Scraping](https://canvas.instructure.com/courses/2045906/discussion_topics/8960301)
+
+- Github Page: [401-class17.md](https://github.com/ticochuck/reading-notes/blob/master/401-class17.md)
+
+
+
 # Code 301 Reading Notes
 
 ## Description
