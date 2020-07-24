@@ -72,6 +72,11 @@ _This section is a repository for the **401 Reading Notes**_
 
 - Github Page: [401-class14.md](https://github.com/ticochuck/reading-notes/blob/master/401-class14.md)
 
+## Read 15
+- Canvas assignment: [Read 15 - Trees](https://canvas.instructure.com/courses/2045906/discussion_topics/8960319)
+
+- Github Page: [401-class15.md](https://github.com/ticochuck/reading-notes/blob/master/401-class15.md)
+
 ## Read 16
 - Canvas assignment: [Read 16 - Data Visualization](https://canvas.instructure.com/courses/2045906/discussion_topics/8960300)
 
