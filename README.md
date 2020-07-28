@@ -87,6 +87,11 @@ _This section is a repository for the **401 Reading Notes**_
 
 - Github Page: [401-class17.md](https://github.com/ticochuck/reading-notes/blob/master/401-class17.md)
 
+## Read 18
+- Canvas assignment: [Read 18 - Cryptography](https://canvas.instructure.com/courses/2045906/discussion_topics/8960302)
+
+- Github Page: [401-class18.md](https://github.com/ticochuck/reading-notes/blob/master/401-class18.md)
+
 
 
 # Code 301 Reading Notes
