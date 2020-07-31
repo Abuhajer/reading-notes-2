@@ -93,6 +93,12 @@ _This section is a repository for the **401 Reading Notes**_
 - Github Page: [401-class18.md](https://github.com/ticochuck/reading-notes/blob/master/401-class18.md)
 
 
+## Read 19
+- Canvas assignment: [Read 19 - Automation](https://canvas.instructure.com/courses/2045906/discussion_topics/8960293)
+
+- Github Page: [401-class19.md](https://github.com/ticochuck/reading-notes/blob/master/401-class19.md)
+
+
 
 # Code 301 Reading Notes
 
