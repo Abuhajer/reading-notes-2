@@ -99,6 +99,11 @@ _This section is a repository for the **401 Reading Notes**_
 - Github Page: [401-class19.md](https://github.com/ticochuck/reading-notes/blob/master/401-class19.md)
 
 
+## Read 26
+- Canvas assignment: [Read 26 - Intro to Django](https://canvas.instructure.com/courses/2045906/discussion_topics/8960294)
+
+- Github Page: [401-class26.md](https://github.com/ticochuck/reading-notes/blob/master/401-class26.md)
+
 
 # Code 301 Reading Notes
 
