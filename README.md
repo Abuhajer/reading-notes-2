@@ -109,6 +109,11 @@ _This section is a repository for the **401 Reading Notes**_
 
 - Github Page: [401-class27.md](https://github.com/ticochuck/reading-notes/blob/master/401-class27.md)
 
+## Read 28
+- Canvas assignment: [Read 28 - Django CRUD](https://canvas.instructure.com/courses/2045906/discussion_topics/8960296)
+
+- Github Page: [401-class28.md](https://github.com/ticochuck/reading-notes/blob/master/401-class28.md)
+
 
 # Code 301 Reading Notes
 
