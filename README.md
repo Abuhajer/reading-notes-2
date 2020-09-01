@@ -114,6 +114,11 @@ _This section is a repository for the **401 Reading Notes**_
 
 - Github Page: [401-class28.md](https://github.com/ticochuck/reading-notes/blob/master/401-class28.md)
 
+## Read 29
+- Canvas assignment: [Read 29 - Django Custom User](https://canvas.instructure.com/courses/2045906/discussion_topics/8960297)
+
+- Github Page: [401-class29.md](https://github.com/ticochuck/reading-notes/blob/master/401-class29.md)
+
 
 # Code 301 Reading Notes
 
