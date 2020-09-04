@@ -119,6 +119,10 @@ _This section is a repository for the **401 Reading Notes**_
 
 - Github Page: [401-class29.md](https://github.com/ticochuck/reading-notes/blob/master/401-class29.md)
 
+## Read 30
+- Canvas assignment: [Read 30 - Hash Tables](https://canvas.instructure.com/courses/2045906/discussion_topics/8960318)
+
+- Github Page: [401-class30.md](https://github.com/ticochuck/reading-notes/blob/master/401-class30.md)
 
 # Code 301 Reading Notes
 
