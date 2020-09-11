@@ -129,6 +129,11 @@ _This section is a repository for the **401 Reading Notes**_
 
 - Github Page: [401-class31.md](https://github.com/ticochuck/reading-notes/blob/master/401-class31.md)
 
+## Read 32
+- Canvas assignment: [Read 32 - Permissions and Postgresql](https://canvas.instructure.com/courses/2045906/discussion_topics/8960306)
+
+- Github Page: [401-class32.md](https://github.com/ticochuck/reading-notes/blob/master/401-class32.md)
+
 
 # Code 301 Reading Notes
 
