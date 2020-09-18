@@ -139,6 +139,11 @@ _This section is a repository for the **401 Reading Notes**_
 
 - Github Page: [401-class33.md](https://github.com/ticochuck/reading-notes/blob/master/401-class33.md)
 
+## Read 34
+- Canvas assignment: [Read 34 - API Deployment](https://canvas.instructure.com/courses/2045906/discussion_topics/8960304)
+
+- Github Page: [401-class34.md](https://github.com/ticochuck/reading-notes/blob/master/401-class34.md)
+
 # Code 301 Reading Notes
 
 ## Description
