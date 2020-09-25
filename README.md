@@ -144,6 +144,11 @@ _This section is a repository for the **401 Reading Notes**_
 
 - Github Page: [401-class34.md](https://github.com/ticochuck/reading-notes/blob/master/401-class34.md)
 
+## Read 35
+- Canvas assignment: [Read 35 - Graphs](https://canvas.instructure.com/courses/2045906/discussion_topics/8960317)
+
+- Github Page: [401-class35.md](https://github.com/ticochuck/reading-notes/blob/master/401-class35.md)
+
 ## Read 36
 - Canvas assignment: [Read 36 - Whiteboard advice](https://canvas.instructure.com/courses/2045906/discussion_topics/8960307)
 
