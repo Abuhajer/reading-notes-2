@@ -169,6 +169,10 @@ _This section is a repository for the **401 Reading Notes**_
 
 - Github Page: [401-class39.md](https://github.com/ticochuck/reading-notes/blob/master/401-class39.md)
 
+## Read 41
+- Canvas assignment: [Read 41 - React III](https://canvas.instructure.com/courses/2045906/discussion_topics/8960312)
+
+- Github Page: [401-class41.md](https://github.com/ticochuck/reading-notes/blob/master/401-class41.md)
 
 # Code 301 Reading Notes
 
