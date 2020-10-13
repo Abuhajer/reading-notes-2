@@ -170,9 +170,14 @@ _This section is a repository for the **401 Reading Notes**_
 - Github Page: [401-class39.md](https://github.com/ticochuck/reading-notes/blob/master/401-class39.md)
 
 ## Read 41
-- Canvas assignment: [Read 41 - React III](https://canvas.instructure.com/courses/2045906/discussion_topics/8960312)
+- Canvas assignment: [Read 41 - Security](https://canvas.instructure.com/courses/2045906/discussion_topics/8960312)
 
 - Github Page: [401-class41.md](https://github.com/ticochuck/reading-notes/blob/master/401-class41.md)
+
+## Read 42
+- Canvas assignment: [Read 42 - Tying it all together](https://canvas.instructure.com/courses/2045906/discussion_topics/8960315)
+
+- Github Page: [401-class42.md](https://github.com/ticochuck/reading-notes/blob/master/401-class42.md)
 
 # Code 301 Reading Notes
 
